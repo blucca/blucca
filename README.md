@@ -1,6 +1,6 @@
 <a href="https://blucca.github.io/"><img src="assets/banner.svg" alt="Blucca — Make it work. Make it clear." width="100%"></a>
 
-### Hey, I'm Blucca 👋
+### Hey, I'm Blucca.
 
 I turn awkward processes into useful software: small web apps, connected workflows, and API integrations with checks you can run yourself.
 
@@ -12,11 +12,11 @@ My favorite kind of problem: **“This works most of the time.”** The interest
 
 Self-initiated tools and runnable engineering samples:
 
-| Project | What it helps with | Take a look |
-| :--- | :--- | :--- |
-| **FlowDelta** | Turn n8n workflow changes into release notes, acceptance checks, and a client-ready handoff. Comparison runs in your browser. | [Live app](https://blucca.github.io/flowdelta/) · [Source](https://github.com/blucca/flowdelta) |
-| **Document Approval Gate** | Freeze an approved revision and recover an ERP delivery after a lost response. **12 executed scenarios**, real PostgreSQL, synthetic ERP. | [Code & recorded results](https://github.com/blucca/document-approval-gate) |
-| **Arc Receipt Reconciler** | Match USDC receipts to invoices, with explicit duplicate handling and partial payments. A local-first, read-only prototype. | [Live app](https://blucca.github.io/arc-receipt-reconciler/) · [Source](https://github.com/blucca/arc-receipt-reconciler) |
+- **[FlowDelta](https://blucca.github.io/flowdelta/)** — Turn n8n workflow changes into release notes, acceptance checks, and a client-ready handoff. Comparison runs in your browser. [Source ↗](https://github.com/blucca/flowdelta)
+
+- **[Document Approval Gate](https://github.com/blucca/document-approval-gate)** — Freeze an approved revision and recover an ERP delivery after a lost response. **12 executed scenarios**, real PostgreSQL, synthetic ERP. [Recorded results ↗](https://github.com/blucca/document-approval-gate/blob/main/examples/observed-results.json)
+
+- **[Arc Receipt Reconciler](https://blucca.github.io/arc-receipt-reconciler/)** — Match USDC receipts to invoices, with explicit duplicate handling and partial payments. A local-first, read-only prototype. [Source ↗](https://github.com/blucca/arc-receipt-reconciler)
 
 **Upstream work:** [HubSpot CRM card converter — preserve target URL query parameters](https://github.com/HubSpot/ui-extensions-examples/pull/125). Submitted patch with regression tests; follow the PR for review status.
 
@@ -34,7 +34,7 @@ I take on focused builds, workflow repairs, API migrations, and technical resear
 
 Send the **outcome you want**, your **current tools**, and your **timing**. I'll turn that into a proposed scope, acceptance criteria, delivery date, and quote.
 
-📬 **[belgialucca@gmail.com](mailto:belgialucca@gmail.com?subject=Project%20brief%20for%20Blucca)** · [n8n delivery](https://blucca.github.io/n8n-workflow-delivery/) · [HubSpot card migration](https://blucca.github.io/hubspot-card-migration/)
+**[belgialucca@gmail.com](mailto:belgialucca@gmail.com?subject=Project%20brief%20for%20Blucca)** · [n8n delivery](https://blucca.github.io/n8n-workflow-delivery/) · [HubSpot card migration](https://blucca.github.io/hubspot-card-migration/)
 
 ---
 
