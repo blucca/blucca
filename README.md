@@ -12,7 +12,7 @@ My favorite kind of problem: **“This works most of the time.”** The interest
 
 Self-initiated tools and runnable engineering samples:
 
-- **[n8n-check](https://github.com/blucca/n8n-check)** — Run a workflow against HTTP mocks in real n8n. Assert the outgoing requests and output items; get JSON + JUnit. One retry example catches **four requests from two inputs**. [Run v0.1.0 ↗](https://github.com/blucca/n8n-check#try-a-failure-then-its-fix)
+- **[n8n-check](https://github.com/blucca/n8n-check)** — Run a workflow against HTTP mocks in real n8n. Assert the outgoing requests and output items; get JSON + JUnit. One retry example catches **four requests from two inputs**. [Run v0.1.1 ↗](https://github.com/blucca/n8n-check#try-a-failure-then-its-fix)
 
 - **[FlowDelta](https://blucca.github.io/flowdelta/)** — Turn n8n workflow changes into release notes, acceptance checks, and a client-ready handoff. Comparison runs in your browser. [Source ↗](https://github.com/blucca/flowdelta)
 
@@ -24,7 +24,7 @@ Self-initiated tools and runnable engineering samples:
 
 **Try it now:** [Your HubSpot card renders. Does the action work?](https://blucca.github.io/guides/hubspot-card-migration/) — reproduce the converter URL regression in your browser, then check the backend contract.
 
-**From the workbench:** [Two items. One retry. Two hidden failures.](https://blucca.github.io/guides/testing-n8n-http-requests/) — an executed walkthrough of n8n request bodies, item identity, and recovery.
+**From the workbench:** [Two items. One failure. Four requests.](https://blucca.github.io/guides/n8n-retry-duplicates/) — compare recorded traces from direct retry, HTTP batching, and a one-item loop. Runnable workflows and the fix included.
 
 ### Tools I reach for
 
