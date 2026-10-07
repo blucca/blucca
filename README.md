@@ -16,7 +16,7 @@ Self-initiated tools and runnable engineering samples:
 
 - **[FlowDelta](https://blucca.github.io/flowdelta/)** — Turn n8n workflow changes into release notes, acceptance checks, and a client-ready handoff. Comparison runs in your browser. [Source ↗](https://github.com/blucca/flowdelta)
 
-- **[Document Approval Gate](https://github.com/blucca/document-approval-gate)** — Freeze an approved revision and recover an ERP delivery after a lost response. **12 executed scenarios**, real PostgreSQL, synthetic ERP. [Recorded results ↗](https://github.com/blucca/document-approval-gate/blob/main/examples/observed-results.json)
+- **[Document Approval Gate](https://blucca.github.io/document-approval-gate/)** — Correct → approve → lose the ERP response → retry. **Try the 60-second browser simulation**, or use the real-PG review desk and n8n caller. **13 executed backend scenarios**, synthetic ERP. [Source + local setup](https://github.com/blucca/document-approval-gate). [Recorded results ↗](https://github.com/blucca/document-approval-gate/blob/main/examples/observed-results.json)
 
 - **[Arc Receipt Reconciler](https://blucca.github.io/arc-receipt-reconciler/)** — Match USDC receipts to invoices, with explicit duplicate handling and partial payments. A local-first, read-only prototype. [Source ↗](https://github.com/blucca/arc-receipt-reconciler)
 
