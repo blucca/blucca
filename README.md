@@ -12,7 +12,7 @@ My favorite kind of problem: **“This works most of the time.”** The interest
 
 Self-initiated tools and runnable engineering samples:
 
-- **[n8n-check](https://github.com/blucca/n8n-check)** — Run a workflow against HTTP mocks in real n8n. Assert the outgoing requests and output items; get JSON + JUnit. Use the **GitHub Action** for a one-file CI setup with readable check summaries and request traces. [Build a case from your own export — locally in your browser ↗](https://blucca.github.io/n8n-check/)
+- **[n8n-check](https://github.com/blucca/n8n-check)** — Run a workflow against HTTP mocks in real n8n. Assert the outgoing requests and output items; get JSON + JUnit. Use the **GitHub Action** for a one-file CI setup with readable check summaries and request traces. [Build a case from your own export — locally in your browser ↗](https://blucca.github.io/n8n-check/). **On npm:** `npm install --global @blucca/n8n-check` (Node.js 24+).
 
 - **[FlowDelta](https://blucca.github.io/flowdelta/)** — Turn n8n workflow changes into release notes, acceptance checks, and a client-ready handoff. Comparison runs in your browser. [Source ↗](https://github.com/blucca/flowdelta)
 
@@ -23,6 +23,8 @@ Self-initiated tools and runnable engineering samples:
 **Upstream work:** [HubSpot CRM card converter — preserve target URL query parameters](https://github.com/HubSpot/ui-extensions-examples/pull/125). Submitted patch with regression tests; follow the PR for review status.
 
 **Try it now:** [Your HubSpot card renders. Does the action work?](https://blucca.github.io/guides/hubspot-card-migration/) — reproduce the converter URL regression in your browser, then check the backend contract.
+
+**New from the workbench:** [Two tool calls. One duplicated ID.](https://blucca.github.io/guides/vapi-tool-call-checks/) — inspect real n8n checks for Vapi-shaped responses: identity pairing, backend 503, empty orders, and a wrong-ID regression.
 
 **From the workbench:** [Two items. One failure. Four requests.](https://blucca.github.io/guides/n8n-retry-duplicates/) — compare recorded traces from direct retry, HTTP batching, and a one-item loop. Runnable workflows and the fix included.
 
