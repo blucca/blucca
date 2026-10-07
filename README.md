@@ -12,7 +12,7 @@ My favorite kind of problem: **“This works most of the time.”** The interest
 
 Self-initiated tools and runnable engineering samples:
 
-- **[n8n-check](https://github.com/blucca/n8n-check)** — Run a workflow against HTTP mocks in real n8n. Assert the outgoing requests and output items; get JSON + JUnit. Use the **GitHub Action** for a one-file CI setup with readable check summaries and request traces. [Build a case from your own export — locally in your browser ↗](https://blucca.github.io/n8n-check/). **On npm:** `npm install --global @blucca/n8n-check` (Node.js 24+).
+- **[n8n-check](https://github.com/blucca/n8n-check)** — Run a workflow against HTTP mocks in real n8n. Assert the outgoing requests and output items; get JSON + JUnit. Use the **[GitHub Marketplace Action](https://github.com/marketplace/actions/n8n-check)** for a one-file CI setup with readable check summaries and request traces. [Build a case from your own export — locally in your browser ↗](https://blucca.github.io/n8n-check/). **On npm:** `npm install --global @blucca/n8n-check` (Node.js 24+).
 
 - **[FlowDelta](https://blucca.github.io/flowdelta/)** — Turn n8n workflow changes into release notes, acceptance checks, and a client-ready handoff. Comparison runs in your browser. [Source ↗](https://github.com/blucca/flowdelta)
 
