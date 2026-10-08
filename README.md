@@ -12,6 +12,8 @@ My favorite kind of problem: **“This works most of the time.”** The interest
 
 **From the research desk:** [A tender changed. What happens to signed-off work?](https://blucca.github.io/research/bid-amendment-impact/) — three real notice changes, five proposed task actions, and a recovery design that preserves a teammate's concurrent update. Inspect the original JSON, download the review plan, and challenge the proposed transitions. **Pre-build research · application development starts 22 October.** [Build and evidence plan ↗](https://blucca.github.io/research/bid-amendment-impact/build-evidence.md)
 
+**Open collaboration:** [Help shape BidDelta as a hands-on product / UX co-creator](https://blucca.github.io/research/bid-amendment-impact/#collaborate). Start with one change you would make to the five-task plan; build window October 22–26.
+
 Self-initiated tools and runnable engineering samples:
 
 - **[n8n-check](https://github.com/blucca/n8n-check)** — Run a workflow against HTTP mocks in real n8n. Assert the outgoing requests and output items; get JSON + JUnit. Use the **[GitHub Marketplace Action](https://github.com/marketplace/actions/n8n-check)** for a one-file CI setup with readable check summaries and request traces. [Build a case from your own export — locally in your browser ↗](https://blucca.github.io/n8n-check/). **On npm:** `npm install --global @blucca/n8n-check` (Node.js 24+).
