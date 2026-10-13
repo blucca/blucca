@@ -14,6 +14,7 @@ Use a PDF or image with visible SKUs and a `sku,name,price` CSV, in one currency
 
 | Project | What you can do | Open it |
 | :--- | :--- | :--- |
+| **Eight Again** | Practise a dance phrase with the TV remote: watch, get ready, practise, and watch again. Native Vega OS 1.2 development preview, recorded in the official Vega simulator. Free small-class teacher trial. | [Watch](https://blucca.github.io/eight-again/#recording) / [Teacher trial](https://blucca.github.io/eight-again/#teacher-trial) / [Source](https://github.com/blucca/eight-again) |
 | **HausPost** | Turn a multilingual tenant thread into a source-reviewed repair handoff with a self-managed Apertus 8B model. Recorded real-model examples and a CPU demo. | [Try](https://blucca.github.io/hauspost/) / [Demo](https://blucca.github.io/hauspost/demo/) / [Source](https://github.com/blucca/hauspost) |
 | **Raincheck** | Rebook a workshop guest or return a ticket. Public preview uses simulated payments and recorded AI; the demo runs PayPal sandbox and live AI. | [Try](https://blucca.github.io/raincheck/) / [Demo](https://blucca.github.io/raincheck/public/demo.html) / [Source](https://github.com/blucca/raincheck) |
 | **Care Handoff** | Share a changed visit, accept responsibility, and leave a named completion receipt. | [Try](https://blucca.github.io/care-handoff/) / [Source](https://github.com/blucca/care-handoff) |
@@ -28,7 +29,7 @@ Use a PDF or image with visible SKUs and a `sku,name,price` CSV, in one currency
 - **[FlowDelta](https://github.com/blucca/flowdelta)** — Compare workflow versions and turn downstream impact into a readable release handoff. [Try in your browser](https://blucca.github.io/flowdelta/)
 - **[Relay State](https://github.com/blucca/relay-state)** — Serialized state changes, atomic saves, and live committed snapshots for an MCP assistant’s open screen. [Try the Return Desk example](https://github.com/blucca/relay-state/tree/main/examples/return-desk)
 
-**The stack:** TypeScript, JavaScript, Python, Node.js, PostgreSQL, browser APIs, MCP, and n8n. Small codebases with working examples, repeatable checks, and practical operating notes.
+**The stack:** TypeScript, JavaScript, Python, React Native, Node.js, PostgreSQL, browser APIs, MCP, and n8n. Small codebases with working examples, repeatable checks, and practical operating notes.
 
 ### From the workbench
 
