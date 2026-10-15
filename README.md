@@ -37,7 +37,7 @@ Use a PDF or image with visible SKUs and a `sku,name,price` CSV, in one currency
 
 [**Two items. One failure. Four requests.**](https://blucca.github.io/guides/n8n-retry-duplicates/) Recorded n8n traces that reveal the retry boundary.
 
-[**Your card renders. Does the action work?**](https://blucca.github.io/guides/hubspot-card-migration/) An interactive HubSpot migration guide and a runnable API contract.
+[**Two screenings. How many tickets?**](https://blucca.github.io/research/bridgebill/planner/) Bridgebill’s free budget worksheet: revise the quote, check break-even seats, and download two distributor enquiries. Save the plan locally for the next revision.
 
 ### A real problem? Let’s make something.
 
