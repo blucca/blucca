@@ -33,7 +33,7 @@ Use a PDF or image with visible SKUs and a `sku,name,price` CSV, in one currency
 
 ### From the workbench
 
-[**Orbit Cut: line up the next shot.**](https://blucca.github.io/orbit-cut/) Hands-first two-cut prototype: keep each shot’s direction, compare the original and corrected panorama, and export an MP4. [Source](https://github.com/blucca/orbit-cut).
+[**Orbit Cut: keep the story in view.**](https://blucca.github.io/orbit-cut/) Hands-first two-cut exercise with clear goals and progress. Pause and continue, compare original and corrected panoramas from the same viewpoint, and export a tagged 360 MP4. [Source](https://github.com/blucca/orbit-cut) / [Eight-minute Quest playtest](https://github.com/blucca/orbit-cut/blob/main/docs/quest-playtest.md).
 
 [**A tender changed. What work reopens?**](https://blucca.github.io/research/bid-amendment-impact/) Three source changes and a five-task impact plan.
 
