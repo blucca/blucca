@@ -25,7 +25,7 @@ Use a PDF or image with visible SKUs and a `sku,name,price` CSV, in one currency
 
 ### For your toolbox
 
-- **[n8n-check](https://github.com/blucca/n8n-check)** — Test real n8n workflows against HTTP responses. Assert requests and output items; export JSON and JUnit. [Build a test case](https://blucca.github.io/n8n-check/) / [GitHub Action](https://github.com/marketplace/actions/n8n-check)
+- **[n8n-check](https://github.com/blucca/n8n-check)** — Test real n8n workflows against HTTP responses. Assert requests and output items; export JSON and JUnit. [Build a test case](https://blucca.github.io/n8n-check/) / [GitHub Action](https://github.com/marketplace/actions/n8n-check) · Featured in [Web Tools Weekly #691](https://webtoolsweekly.com/archives/issue-691/).
 - **[FlowDelta](https://github.com/blucca/flowdelta)** — Compare workflow versions and turn downstream impact into a readable release handoff. [Try in your browser](https://blucca.github.io/flowdelta/)
 - **[Relay State](https://github.com/blucca/relay-state)** — Serialized state changes, atomic saves, and live committed snapshots for an MCP assistant’s open screen. [Try the Return Desk example](https://github.com/blucca/relay-state/tree/main/examples/return-desk)
 
