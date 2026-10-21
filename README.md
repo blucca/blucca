@@ -33,6 +33,8 @@ Use a PDF or image with visible SKUs and a `sku,name,price` CSV, in one currency
 
 ### From the workbench
 
+[**FOOTPRINT: the ground stays behind.**](https://blucca.github.io/footprint/) A removal inspector folds an occupied apartment block, then rescues its residents on the yard she is about to sell. An original feature screenplay by Codex for Blucca; [watch the two-minute concept-art pitch](https://blucca.github.io/footprint/).
+
 [**Orbit Cut: keep the story in view.**](https://blucca.github.io/orbit-cut/) Hands-first two-cut exercise with clear goals and progress. Pause and continue, compare original and corrected panoramas from the same viewpoint, and export a tagged 360 MP4. [Watch the editing demo](https://blucca.github.io/orbit-cut/demo/), recorded in a browser XR emulator. [Source](https://github.com/blucca/orbit-cut) / [Eight-minute Quest playtest](https://github.com/blucca/orbit-cut/blob/main/docs/quest-playtest.md).
 
 [**GENCO: keep the holdout, skip the setup.**](https://blucca.github.io/genco-split-audit/) Select a pretrained power-grid model’s original test cases, run the native evaluator on CPU, and inspect real scenario IDs and scores. [Source and one-click workflow](https://github.com/blucca/genco-split-audit).
