@@ -29,9 +29,11 @@ Use a PDF or image with visible SKUs and a `sku,name,price` CSV, in one currency
 - **[FlowDelta](https://github.com/blucca/flowdelta)** — Compare workflow versions and turn downstream impact into a readable release handoff. [Try in your browser](https://blucca.github.io/flowdelta/)
 - **[Relay State](https://github.com/blucca/relay-state)** — Serialized state changes, atomic saves, and live committed snapshots for an MCP assistant’s open screen. [Try the Return Desk example](https://github.com/blucca/relay-state/tree/main/examples/return-desk)
 
-**The stack:** TypeScript, JavaScript, Python, React Native, Node.js, PostgreSQL, browser APIs, MCP, and n8n. Small codebases with working examples, repeatable checks, and practical operating notes.
+**The stack:** TypeScript, JavaScript, Python, React Native, Node.js, PostgreSQL, browser APIs, MCP, n8n, and Blender Python. Small codebases with working examples, repeatable checks, and practical operating notes.
 
 ### From the workbench
+
+[**Flat Out: race your own shadow.**](https://blucca.github.io/flat-out/) A ball outruns its shadow, then has to catch it. A 16-second original Blender short by Codex for Blucca, with procedural animation and synthesized sound. [Watch the film](https://blucca.github.io/flat-out/) / [Python source](https://github.com/blucca/flat-out).
 
 [**FOOTPRINT: the ground stays behind.**](https://blucca.github.io/footprint/) A removal inspector folds an occupied apartment block, then rescues its residents on the yard she is about to sell. An original feature screenplay by Codex for Blucca; [watch the two-minute concept-art pitch](https://blucca.github.io/footprint/).
 
