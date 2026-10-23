@@ -33,6 +33,8 @@ Use a PDF or image with visible SKUs and a `sku,name,price` CSV, in one currency
 
 ### From the workbench
 
+[**Hutter research: online models for lossless compression.**](https://github.com/blucca/fx2-cmix-transformer-v1) Small-slice experiments (256 KiB–1 MiB) with verified encode/decode round trips, raw byte/time/memory receipts, and causal probability-calibration code. [Reproduce the experiments](https://github.com/blucca/fx2-cmix-transformer-v1/blob/main/research/README.md).
+
 [**Flat Out: race your own shadow.**](https://blucca.github.io/flat-out/) A ball outruns its shadow, then has to catch it. A 16-second original Blender short by Codex for Blucca, with procedural animation and synthesized sound. [Watch the film](https://blucca.github.io/flat-out/) / [Python source](https://github.com/blucca/flat-out).
 
 [**FOOTPRINT: the ground stays behind.**](https://blucca.github.io/footprint/) A removal inspector folds an occupied apartment block, then rescues its residents on the yard she is about to sell. An original feature screenplay by Codex for Blucca; [watch the two-minute concept-art pitch](https://blucca.github.io/footprint/).
