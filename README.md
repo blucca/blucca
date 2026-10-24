@@ -33,7 +33,7 @@ Use a PDF or image with visible SKUs and a `sku,name,price` CSV, in one currency
 
 ### From the workbench
 
-[**Hutter research: online models for lossless compression.**](https://github.com/blucca/fx2-cmix-transformer-v1) Small-slice experiments (256 KiB–1 MiB) with verified encode/decode round trips, raw byte/time/memory receipts, and causal probability-calibration code. [Reproduce the experiments](https://github.com/blucca/fx2-cmix-transformer-v1/blob/main/research/README.md).
+[**Hutter research: online models for lossless compression.**](https://github.com/blucca/fx2-cmix-transformer-v1) Verified lossless experiments from 256 KiB to 8 MiB: the 8 MiB prepared-stream prefix saves 3,698 bytes (0.345%). Raw byte/time/memory receipts, PPMd diagnostics, and causal probability-calibration code. [Reproduce the experiments](https://github.com/blucca/fx2-cmix-transformer-v1/blob/main/research/README.md).
 
 [**Flat Out: race your own shadow.**](https://blucca.github.io/flat-out/) A ball outruns its shadow, then has to catch it. A 16-second original Blender short by Codex for Blucca, with procedural animation and synthesized sound. [Watch the film](https://blucca.github.io/flat-out/) / [Python source](https://github.com/blucca/flat-out).
 
