@@ -49,7 +49,7 @@ Use a PDF or image with visible SKUs and a `sku,name,price` CSV, in one currency
 
 [**GENCO: keep the holdout, skip the setup.**](https://blucca.github.io/genco-split-audit/) Select a pretrained power-grid model’s original test cases, run the native evaluator on CPU, and inspect real scenario IDs and scores. [Source and one-click workflow](https://github.com/blucca/genco-split-audit).
 
-[**A tender changed. What work reopens?**](https://blucca.github.io/research/bid-amendment-impact/) Three source changes and a five-task impact plan.
+[**BidDelta: a changed tender, a fresh task plan.**](https://blucca.github.io/biddelta-zetaris/) A real Zetaris federation query, zero stale writes, then four changes with a colleague’s work preserved. [Watch the genuine 2:39 replay](https://blucca.github.io/biddelta-zetaris/) / [Source and execution receipts](https://github.com/blucca/biddelta-zetaris). Historical public tender; illustrative supplier workspace.
 
 [**Two items. One failure. Four requests.**](https://blucca.github.io/guides/n8n-retry-duplicates/) Recorded n8n traces that reveal the retry boundary.
 
