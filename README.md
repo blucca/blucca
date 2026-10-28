@@ -39,7 +39,7 @@ Use a PDF or image with visible SKUs and a `sku,name,price` CSV, in one currency
 
 ### From the workbench
 
-[**Quantum circuit research: direct inverse-root phasing.**](https://github.com/blucca/quantum-circuit-research) A 28-bit piecewise cubic passes the arithmetic tolerance over all 3,133,452 valid inputs, with 5.75× headroom. Reversible synthesis and measured gate cost are next.
+[**Quantum circuit research: reversible inverse-root phasing.**](https://github.com/blucca/quantum-circuit-research) A 28-bit piecewise cubic passes the arithmetic tolerance over all 3,133,452 valid inputs. The kickmix circuit restores every input and clears every scratch wire on 36,160 measured shots. [Reproduce the circuit and its resource report](https://github.com/blucca/quantum-circuit-research/blob/main/results/invsqrt-circuit-kickmix.json). Archived research recipe.
 
 [**Hutter research: online models for lossless compression.**](https://github.com/blucca/fx2-cmix-transformer-v1) Verified lossless experiments from 256 KiB to 8 MiB: the 8 MiB prepared-stream prefix saves 3,698 bytes (0.345%). Raw byte/time/memory receipts, PPMd diagnostics, and causal probability-calibration code. [Reproduce the experiments](https://github.com/blucca/fx2-cmix-transformer-v1/blob/main/research/README.md).
 
