@@ -39,6 +39,8 @@ Use a PDF or image with visible SKUs and a `sku,name,price` CSV, in one currency
 
 ### From the workbench
 
+[**Quantum circuit research: direct inverse-root phasing.**](https://github.com/blucca/quantum-circuit-research) A 28-bit piecewise cubic passes the arithmetic tolerance over all 3,133,452 valid inputs, with 5.75× headroom. Reversible synthesis and measured gate cost are next.
+
 [**Hutter research: online models for lossless compression.**](https://github.com/blucca/fx2-cmix-transformer-v1) Verified lossless experiments from 256 KiB to 8 MiB: the 8 MiB prepared-stream prefix saves 3,698 bytes (0.345%). Raw byte/time/memory receipts, PPMd diagnostics, and causal probability-calibration code. [Reproduce the experiments](https://github.com/blucca/fx2-cmix-transformer-v1/blob/main/research/README.md).
 
 [**Flat Out: race your own shadow.**](https://blucca.github.io/flat-out/) A ball outruns its shadow, then has to catch it. A 16-second original Blender short by Codex for Blucca, with procedural animation and synthesized sound. [Watch the film](https://blucca.github.io/flat-out/) / [Python source](https://github.com/blucca/flat-out).
