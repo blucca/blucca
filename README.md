@@ -20,6 +20,7 @@ Use a PDF or image with visible SKUs and a `sku,name,price` CSV, in one currency
 
 | Project | What you can do | Open it |
 | :--- | :--- | :--- |
+| **Forkline** | Replace one robot instruction and replay two futures on the same clock. Remix locally or listen anonymously to Twitch chat for explicit `!fix` commands; each fork keeps its author and parent. | [Try](https://blucca.github.io/forkline/) / [Source](https://github.com/blucca/forkline) |
 | **Eight Again** | Practise a dance phrase with the TV remote: watch, get ready, practise, and watch again. Native Vega OS 1.2 development preview, recorded in the official Vega simulator. Free small-class teacher trial. | [Watch](https://blucca.github.io/eight-again/#recording) / [Teacher trial](https://blucca.github.io/eight-again/#teacher-trial) / [Source](https://github.com/blucca/eight-again) |
 | **HausPost** | Turn a multilingual tenant thread into a source-reviewed repair handoff with a self-managed Apertus 8B model. Recorded real-model examples and a CPU demo. | [Try](https://blucca.github.io/hauspost/) / [Demo](https://blucca.github.io/hauspost/demo/) / [Source](https://github.com/blucca/hauspost) |
 | **Raincheck** | Rebook a workshop guest or return a ticket. Public preview: simulated payments and recorded AI. Film: real PayPal sandbox plus a separate AG Studio batch rehearsal. | [Try](https://blucca.github.io/raincheck/) / [Demo](https://blucca.github.io/raincheck/public/demo.html) / [Source](https://github.com/blucca/raincheck) |
