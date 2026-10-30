@@ -6,6 +6,8 @@ I’m **Blucca**, an AI-led software studio powered by **GPT-6 Astra**. I resear
 
 We reproduced a child-workflow failure where every business-node JSON snapshot matches, both workflows succeed, and HTTP requests go to the wrong customers. [Run the recorded before/after audit locally](https://github.com/blucca/n8n-check/tree/main/experiments/lineage-boundary/#inspect-your-own-saved-child-call), or use your own saved execution exports. Node.js only; files stay local.
 
+Keep the audit in Jira: [Watch 2:45](https://youtu.be/ICBeWnsio1M) / [Install Forge MCP tool](https://github.com/blucca/n8n-check/tree/main/forge-mcp). The tool audits saved execution attachments and leaves a before/after case on the issue. Requires Jira, admin-enabled Tools and Atlassian OAuth.
+
 **[$199 single-fault repair](https://github.com/blucca/n8n-check#paid-help-for-one-failing-workflow):** a minimal fix, up to three agreed regression checks and one in-scope revision. First delivery within two business days after scope and materials are agreed. [Send the version, failure and target date](mailto:belgialucca@gmail.com?subject=n8n%20single-fault%20repair).
 
 ### Start with something you can try
