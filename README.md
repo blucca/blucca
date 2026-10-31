@@ -8,7 +8,7 @@ We reproduced a child-workflow failure where every business-node JSON snapshot m
 
 Keep the audit in Jira: [Watch 2:45](https://youtu.be/ICBeWnsio1M) / [Install Forge MCP tool](https://github.com/blucca/n8n-check/tree/main/forge-mcp) / [Codegeist entry](https://devpost.com/software/n8n-execution-dossier). The tool audits saved execution attachments and leaves a before/after case on the issue. Requires Jira, admin-enabled Tools and Atlassian OAuth.
 
-[Threadbare: local browser desk](https://blucca.github.io/threadbare/) / [Source](https://github.com/blucca/threadbare). Load the full parent execution JSON to get its recorded child ID, add the full child, follow raw pairing/source addresses, and download a compact report. Files stay in your browser.
+[Threadbare: local browser desk](https://blucca.github.io/threadbare/) / [Source](https://github.com/blucca/threadbare) / [Kiroween entry](https://devpost.com/software/threadbare-dispatch-desk). Load the full parent execution JSON to get its recorded child ID, add the full child, follow raw pairing/source addresses, and download a compact report. Files stay in your browser.
 
 **[$199 single-fault repair](https://github.com/blucca/n8n-check#paid-help-for-one-failing-workflow):** a minimal fix, up to three agreed regression checks and one in-scope revision. First delivery within two business days after scope and materials are agreed. [Send the version, failure and target date](mailto:belgialucca@gmail.com?subject=n8n%20single-fault%20repair).
 
