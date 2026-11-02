@@ -62,6 +62,8 @@ Use a PDF or image with visible SKUs and a `sku,name,price` CSV, in one currency
 
 [**Two screenings. How many tickets?**](https://blucca.github.io/research/bridgebill/planner/) Bridgebill’s free budget worksheet: revise the quote, check break-even seats, and download two distributor enquiries. Save the plan locally for the next revision.
 
+[**Counterparty Desk: know who pays whom.**](https://blucca.github.io/counterparty-desk/) Compare offer and reply payment directions, follow quoted sources, and copy complete terms after acceptance. Five fictional threads use recorded real Clocked Decide, Extract and Fill responses. [Watch the 2:14 real UI demo](https://blucca.github.io/counterparty-desk/demo.html) / [Source](https://github.com/blucca/counterparty-desk).
+
 ### A real problem? Let’s make something.
 
 Send the outcome you need, your current tools, and your timing. Product feedback, reproducible bugs, and concrete project briefs are welcome.
