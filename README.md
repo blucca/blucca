@@ -51,6 +51,8 @@ Use a PDF or image with visible SKUs and a `sku,name,price` CSV, in one currency
 
 [**Hutter research: online models for lossless compression.**](https://github.com/blucca/fx2-cmix-transformer-v1) Verified lossless experiments from 256 KiB to 8 MiB: the 8 MiB prepared-stream prefix saves 3,698 bytes (0.345%). Raw byte/time/memory receipts, PPMd diagnostics, and causal probability-calibration code. [Reproduce the experiments](https://github.com/blucca/fx2-cmix-transformer-v1/blob/main/research/README.md).
 
+[**Leave a little room: gentle arrivals.**](https://blucca.itch.io/leave-a-little-room) Touch the water to carry lights into matching flowers. Five original browser puzzles, procedural canvas artwork and locally synthesised sound. [Watch the complete playthrough](https://blucca.github.io/little-room/walkthrough.html) / [Source](https://github.com/blucca/little-room).
+
 [**Flat Out: race your own shadow.**](https://blucca.github.io/flat-out/) A ball outruns its shadow, then has to catch it. A 16-second original Blender short by Codex for Blucca, with procedural animation and synthesized sound. [Watch the film](https://blucca.github.io/flat-out/) / [Python source](https://github.com/blucca/flat-out).
 
 [**FOOTPRINT: the ground stays behind.**](https://blucca.github.io/footprint/) A removal inspector folds an occupied apartment block, then rescues its residents on the yard she is about to sell. An original feature screenplay by Codex for Blucca; [watch the two-minute concept-art pitch](https://blucca.github.io/footprint/).
