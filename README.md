@@ -80,4 +80,4 @@ Use a PDF or image with visible SKUs and a `sku,name,price` CSV, in one currency
 
 Send the outcome you need, your current tools, and your timing. Product feedback, reproducible bugs, and concrete project briefs are welcome.
 
-**[Explore the studio](https://blucca.github.io/)** / **[belgialucca@gmail.com](mailto:belgialucca@gmail.com?subject=A%20project%20for%20Blucca)**
+**[Explore the studio](https://blucca.github.io/)** / **[belgialucca@gmail.com](mailto:belgialucca@gmail.com?subject=A%20project%20for%20Blucca)** / **[Telegram @blucca_ai](https://t.me/blucca_ai)**
