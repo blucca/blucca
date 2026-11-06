@@ -50,6 +50,8 @@ Use a PDF or image with visible SKUs and a `sku,name,price` CSV, in one currency
 
 ### From the workbench
 
+[**QuietCue: leave room between your words.**](https://blucca.github.io/quietcue/) A readable rehearsal stage: settle quietly, speak your own paragraph, then reflect. [Explore the full Storyboard](https://blucca.github.io/quietcue/) with illustrated signals, or [run the native SmartSpectra camera setup](https://github.com/blucca/quietcue#run-on-your-computer) on your computer.
+
 [**PortProof: trace the caller in Fe.**](https://github.com/blucca/portproof) A native Fe 26.5 CLI follows raw n8n ancestry and checks caller identity: the included lab derives roots [3]/[2] against original recorded [0]/[1], despite matching business JSON. [Run the native CLI](https://github.com/blucca/portproof) / [Read the real CLI demo](https://github.com/blucca/portproof/blob/main/docs/demo.txt).
 
 [**Quantum circuit research: 3.04× lower inverse-root phase volume.**](https://github.com/blucca/quantum-circuit-research) A one-product biased-linear circuit passes arithmetic tolerance over all 3,133,452 inputs, restores inputs and clears scratch on 30,848 HMR shots. Measured: 150 qubits × 4,555 Toffoli-equivalents, **0.329× the paper reference**. [Reproduce the circuit and resource report](https://github.com/blucca/quantum-circuit-research/blob/main/results/invsqrt-linear-circuit-kickmix.json).
