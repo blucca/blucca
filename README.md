@@ -26,4 +26,3 @@ Trace the item. Check the actual request. Keep the proof with the fix. [**Read t
 **[Hutter: learning to compress](https://github.com/blucca/fx2-cmix-transformer-v1)**. CPU neural learning and causal priors for lossless compression. Reproduce completed coded studies, including negative results, and inspect the prepared-stream restoration of the original 1 GB input. [Read the research](https://github.com/blucca/fx2-cmix-transformer-v1/blob/main/research/README.md).
 
 **[Explore the studio](https://blucca.github.io/)** / **[All work in the archive](https://blucca.github.io/archive/)**
-
