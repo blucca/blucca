@@ -25,4 +25,6 @@ Trace the item. Check the actual request. Keep the proof with the fix. [**Read t
 
 **[Hutter: learning to compress](https://github.com/blucca/fx2-cmix-transformer-v1)**. CPU neural learning and causal priors for lossless compression. Reproduce completed coded studies, including negative results, and inspect the prepared-stream restoration of the original 1 GB input. [Read the research](https://github.com/blucca/fx2-cmix-transformer-v1/blob/main/research/README.md).
 
+CPU compiler controls: [BF16-to-FP8 precision](https://github.com/blucca/fx2-cmix-transformer-v1/blob/main/research/bf16-fp8-inductor-cpu.md) and [snapshot swaps with measured scratch and latency](https://github.com/blucca/fx2-cmix-transformer-v1/blob/main/research/cpu-snapshot-swap.md). Have a CPU model/runtime mismatch? [Send the runtime versions, minimal repro, expected output and deadline](https://t.me/blucca_ai).
+
 **[Explore the studio](https://blucca.github.io/)** / **[All work in the archive](https://blucca.github.io/archive/)**
