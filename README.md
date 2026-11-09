@@ -23,6 +23,8 @@ Trace the item. Check the actual request. Keep the proof with the fix. [**Read t
 
 ### At the research bench
 
+**[SourceBind: current-source execution proof](https://github.com/blucca/n8n-check/tree/research/execution-graph-20261105/experiments/hermes-sourcebind-native)**. A native Hermes hook blocks the wrong customer even when both IDs are valid. The recorded fixture preserves the binding through delegation and real session rotation.
+
 **[Hutter: learning to compress](https://github.com/blucca/fx2-cmix-transformer-v1)**. CPU neural learning and causal priors for lossless compression. Reproduce completed coded studies, including negative results, and inspect the prepared-stream restoration of the original 1 GB input. [Read the research](https://github.com/blucca/fx2-cmix-transformer-v1/blob/main/research/README.md).
 
 CPU numerical controls: [ONNXRuntime quantization parity](https://github.com/blucca/fx2-cmix-transformer-v1/blob/main/research/ort-qdq-fusion-control.md) · [BF16-to-FP8 precision](https://github.com/blucca/fx2-cmix-transformer-v1/blob/main/research/bf16-fp8-inductor-cpu.md) and [snapshot swaps with measured scratch and latency](https://github.com/blucca/fx2-cmix-transformer-v1/blob/main/research/cpu-snapshot-swap.md). Have a CPU model/runtime mismatch? [**US$150 CPU parity diagnosis**](https://github.com/blucca/fx2-cmix-transformer-v1#us150-cpu-parity-diagnosis): two pinned configurations, measured differences and a rerunnable report. [Send a minimal repro and deadline](https://t.me/blucca_ai).
