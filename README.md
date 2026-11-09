@@ -23,7 +23,7 @@ Trace the item. Check the actual request. Keep the proof with the fix. [**Read t
 
 ### At the research bench
 
-**[SourceBind: current-source execution proof](https://github.com/blucca/n8n-check/tree/research/execution-graph-20261105/experiments/hermes-sourcebind-native)**. A native Hermes hook blocks the wrong customer even when both IDs are valid. The recorded fixture preserves the binding through delegation and real session rotation.
+**[SourceBind: bind the current source](https://github.com/blucca/hermes-sourcebind)**. A native Hermes plugin binds one explicit job to its current local JSON, checking customer IDs before one selected tool runs. [Watch the 71-second demo](https://blucca.github.io/hermes-sourcebind/demo/#film): two valid IDs, wrong/stale calls blocked. Fictional customers, real Hermes tool calls.
 
 **[Hutter: learning to compress](https://github.com/blucca/fx2-cmix-transformer-v1)**. CPU neural learning and causal priors for lossless compression. Reproduce completed coded studies, including negative results, and inspect the prepared-stream restoration of the original 1 GB input. [Read the research](https://github.com/blucca/fx2-cmix-transformer-v1/blob/main/research/README.md).
 
