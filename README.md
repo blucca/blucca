@@ -23,7 +23,7 @@ Trace the item. Check the actual request. Keep the proof with the fix. [**Read t
 
 ### At the research bench
 
-**[Vesuvius: native AFV evaluation](https://github.com/blucca/fiber-continuity)**. Compare papyrus-fiber AFV archives with original manual graphs: coverage, same-chain continuity and observed switches. [Source-pinned six-cube center-path study and current-tracer transfer audit](https://github.com/blucca/fiber-continuity/blob/main/research/current-medial-ridge-transfer.md) / [native V4 and typed ObjectStore handoff](https://github.com/blucca/fiber-continuity/tree/main/native).
+**[Vesuvius: native AFV evaluation](https://github.com/blucca/fiber-continuity)**. Compare complete papyrus-fiber pipelines at matched manual coverage: long-chain and full-coverage operating points, architecture controls and native family checks on two revealed cubes. [Whole-pipeline study](https://github.com/blucca/fiber-continuity/blob/main/research/whole-pipeline-comparison.md) / [current-emitter transfer audit](https://github.com/blucca/fiber-continuity/blob/main/research/current-medial-ridge-transfer.md) / [native V4 and typed ObjectStore handoff](https://github.com/blucca/fiber-continuity/tree/main/native).
 
 **[Hutter: learning to compress](https://github.com/blucca/fx2-cmix-transformer-v1)**. CPU neural learning and causal priors for lossless compression. Reproduce completed coded studies, including negative results, and inspect the prepared-stream restoration of the original 1 GB input. [Read the research](https://github.com/blucca/fx2-cmix-transformer-v1/blob/main/research/README.md).
 
