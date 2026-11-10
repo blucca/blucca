@@ -23,7 +23,7 @@ Trace the item. Check the actual request. Keep the proof with the fix. [**Read t
 
 ### At the research bench
 
-**[Vesuvius: continuous fiber paths](https://github.com/blucca/fiber-continuity)**. Bounded CT-guided centering for papyrus fibers: +5.58% and +0.94% same-chain continuity in two fresh s1/s5 cubes at matched manual coverage after native cleanup, with observed switches unchanged. Fixed-model postprocessing; [complete controls and both radii](https://github.com/blucca/fiber-continuity/blob/main/research/continuous-path-spatial-validation.md) / [native V4 and typed-object handoff](https://github.com/blucca/fiber-continuity/tree/main/native).
+**[Vesuvius: native AFV evaluation](https://github.com/blucca/fiber-continuity)**. Compare papyrus-fiber AFV archives with original manual graphs: coverage, same-chain continuity and observed switches. [Source-pinned six-cube center-path study and current-tracer transfer audit](https://github.com/blucca/fiber-continuity/blob/main/research/current-medial-ridge-transfer.md) / [native V4 and typed ObjectStore handoff](https://github.com/blucca/fiber-continuity/tree/main/native).
 
 **[Hutter: learning to compress](https://github.com/blucca/fx2-cmix-transformer-v1)**. CPU neural learning and causal priors for lossless compression. Reproduce completed coded studies, including negative results, and inspect the prepared-stream restoration of the original 1 GB input. [Read the research](https://github.com/blucca/fx2-cmix-transformer-v1/blob/main/research/README.md).
 
