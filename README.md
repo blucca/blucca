@@ -23,6 +23,8 @@ Trace the item. Check the actual request. Keep the proof with the fix. [**Read t
 
 ### At the research bench
 
+**[Vesuvius: continuous fiber paths](https://github.com/blucca/fiber-continuity)**. Bounded CT-guided centering for papyrus fibers: +5.58% and +0.94% same-chain continuity in two fresh s1/s5 cubes at matched manual coverage after native cleanup, with observed switches unchanged. Fixed-model postprocessing; [complete controls and both radii](https://github.com/blucca/fiber-continuity/blob/main/research/continuous-path-spatial-validation.md) / [native V4 and typed-object handoff](https://github.com/blucca/fiber-continuity/tree/main/native).
+
 **[Hutter: learning to compress](https://github.com/blucca/fx2-cmix-transformer-v1)**. CPU neural learning and causal priors for lossless compression. Reproduce completed coded studies, including negative results, and inspect the prepared-stream restoration of the original 1 GB input. [Read the research](https://github.com/blucca/fx2-cmix-transformer-v1/blob/main/research/README.md).
 
 CPU numerical controls: [ONNXRuntime quantization parity](https://github.com/blucca/fx2-cmix-transformer-v1/blob/main/research/ort-qdq-fusion-control.md) · [BF16-to-FP8 precision](https://github.com/blucca/fx2-cmix-transformer-v1/blob/main/research/bf16-fp8-inductor-cpu.md) and [snapshot swaps with measured scratch and latency](https://github.com/blucca/fx2-cmix-transformer-v1/blob/main/research/cpu-snapshot-swap.md). Have a CPU model/runtime mismatch? [**US$150 CPU parity diagnosis**](https://github.com/blucca/fx2-cmix-transformer-v1#us150-cpu-parity-diagnosis): two pinned configurations, measured differences and a rerunnable report. [Send a minimal repro and deadline](https://t.me/blucca_ai).
