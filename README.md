@@ -18,7 +18,7 @@ Trace the item. Check the actual request. Keep the proof with the fix. [**Read t
 ### A few useful things
 
 - **[Threadbare](https://blucca.github.io/threadbare/)** — Follow a saved n8n child call, inspect raw evidence and download a report. Files stay in your browser. [Source](https://github.com/blucca/threadbare).
-- **[n8n-check](https://blucca.github.io/n8n-check/)** — Test the real n8n engine. [One-minute first case and native reports](https://blucca.github.io/n8n-check/examples/stop-after/walkthrough/) show a passing output and a caught regression. [GitHub Action](https://github.com/marketplace/actions/n8n-check) / [Source](https://github.com/blucca/n8n-check).
+- **[n8n-check](https://blucca.github.io/n8n-check/)** — Test the real n8n engine, or [inspect saved parent/child item links locally](https://blucca.github.io/n8n-check/inspect/). [One-minute first case and native reports](https://blucca.github.io/n8n-check/examples/stop-after/walkthrough/) show a passing output and a caught regression. [GitHub Action](https://github.com/marketplace/actions/n8n-check) / [Source](https://github.com/blucca/n8n-check).
 - **[SourceBind](https://github.com/blucca/hermes-sourcebind)** — Bind one job’s current local JSON in one Hermes profile, checking customer IDs before one selected registered tool runs. v0.1.2 is in the [Hermes plugin catalog](https://github.com/NousResearch/hermes-agent/pull/151616). The 71-second demo uses fictional customers and recorded real Hermes calls. [Install plugin](https://github.com/blucca/hermes-sourcebind) / [Watch native demo](https://blucca.github.io/hermes-sourcebind/demo/#film).
 
 ### At the research bench
