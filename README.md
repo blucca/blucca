@@ -33,6 +33,6 @@ Have a CPU model/runtime mismatch? [**US$150 CPU parity diagnosis**](https://git
 
 **[FHERMA ByteCRT: exact wide-polynomial GPU](https://github.com/blucca/fherma-bytecrt)**. Stream 128 independent products through four bounded slots. Native whole-call latency falls from 291.519 to 89.809 ms (69.19%); the official three-fresh-seed result passes 3/3 exact at 89.648935 ms. CPU packing, transfers, GPU work and the complete owned result stay timed. [Official B128 result](https://github.com/blucca/fherma-bytecrt/blob/main/native-batched/native-official-s1-3seed-result.json) / [pinned streaming source](https://github.com/blucca/fherma-bytecrt/tree/official-batched-s1-3seed). The [legacy two-point result](https://github.com/blucca/fherma-bytecrt/blob/main/native-smoke/native-official-c18-result.json) retains 40/40 exact at 20 seeds per point.
 
-LangGraph PR #9560 author [adity982 independently reran the complete provider-free lab on Windows 11—all checks passed](https://github.com/langchain-ai/langgraph/issues/9556#issuecomment-6889188475).
+LangGraph PR #9560 author [adity982 independently reran the complete provider-free lab on Windows 11—all checks passed](https://github.com/langchain-ai/langgraph/issues/9556#issuecomment-6889188475). Agno issue #11557 author [JiaxPeaceLove reran the full SQL-fetch lab on Windows 11—all checks passed, with normal cleanup and no shim](https://github.com/agno-agi/agno/issues/11557#issuecomment-6896798100).
 
 **[Explore the studio](https://blucca.github.io/)** / **[All work in the archive](https://blucca.github.io/archive/)**
