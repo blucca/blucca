@@ -37,4 +37,6 @@ Have a CPU model/runtime mismatch? [**US$150 CPU parity diagnosis**](https://git
 
 LangGraph PR #9560 author [adity982 independently reran the complete provider-free lab on Windows 11—all checks passed](https://github.com/langchain-ai/langgraph/issues/9556#issuecomment-6889188475). Agno issue #11557 author [JiaxPeaceLove reran the full SQL-fetch lab on Windows 11—all checks passed, with normal cleanup and no shim](https://github.com/agno-agi/agno/issues/11557#issuecomment-6896798100).
 
+**[dbt macro annotations: consistent cold and warm parses](https://github.com/blucca/dbt/tree/fix/macro-annotations-cold-warm/reviews/macro-annotations)**. A two-file fix preserves fully documented generic tests and catches incorrect arguments through saved-manifest reuse. Released 1.12.6 and current-source checks pass; eight focused tests cover documentation and signature changes. [Run the free native review](https://github.com/blucca/dbt/releases/tag/macro-annotations-review-20261118).
+
 **[Explore the studio](https://blucca.github.io/)** / **[All work in the archive](https://blucca.github.io/archive/)**
