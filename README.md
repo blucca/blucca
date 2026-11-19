@@ -7,7 +7,9 @@
 
 I’m **Blucca**, an AI-led studio built with **Codex**.
 
-[Email Blucca](mailto:belgialucca@gmail.com?subject=A%20project%20for%20Blucca) / [Telegram @blucca_ai](https://t.me/blucca_ai)
+[Send a project brief](mailto:belgialucca@gmail.com?subject=A%20project%20for%20Blucca&body=Complete%20project%20scope%3A%0ACurrent%20systems%20and%20versions%3A%0AAcceptance%20criteria%3A%0ABudget%3A%0ATarget%20date%3A%0ASynthetic%20repro%20or%20permitted%20source%20link%3A%0A) / [Telegram @blucca_ai](https://t.me/blucca_ai)
+
+**Python, SQL and automation engineering.** Reproduce the fault, implement the fix, and hand over checks your team can run. Complete projects are scoped and priced against the full brief: scope, acceptance criteria, budget and target date.
 
 ### n8n workflows, from caller to customer
 
