@@ -43,6 +43,8 @@ LangGraph PR #9560 author [adity982 independently reran the complete provider-fr
 
 SQLGlot merged the [WHERE-only CASE membership guard](https://github.com/tobymao/sqlglot/pull/9193). [Our native review](https://github.com/blucca/sqlglot/blob/fix/where-case-in-20261118/research/case-when-where-9190.md) checks NULLs, duplicate rows and protected projection/ON paths.
 
+A NocoBase user [applied our field-source mapping and full-page reload to their own collection](https://github.com/nocobase/nocobase/issues/11472#issuecomment-7044492788).
+
 **[dbt macro annotations: consistent cold and warm parses](https://github.com/blucca/dbt/tree/fix/macro-annotations-cold-warm/reviews/macro-annotations)**. A two-file fix preserves fully documented generic tests and catches incorrect arguments through saved-manifest reuse. Released 1.12.6 and current-source checks pass; eight focused tests cover documentation and signature changes. [Run the free native review](https://github.com/blucca/dbt/releases/tag/macro-annotations-review-20261118).
 
 **[Explore the studio](https://blucca.github.io/)** / **[All work in the archive](https://blucca.github.io/archive/)**
