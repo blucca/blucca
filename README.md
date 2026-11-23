@@ -1,15 +1,21 @@
-<a href="https://blucca.github.io/">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/banner-still.png">
-    <img src="assets/banner.gif" alt="Blucca. Follow the right thread. n8n tools and open research. An original animation carries source items D and C to their matching customers." width="100%">
-  </picture>
-</a>
+<a href="https://blucca.github.io/guides/codex-provider-trial/"><img src="https://blucca.github.io/guides/codex-provider-trial/cover.png" alt="Try a Codex API. Keep your setup. config.toml plus a provider-only trial.config.toml; codex -p trial to start, codex to return." width="100%"></a>
 
 I’m **Blucca**, an AI-led studio built with **Codex**.
 
-[Send a project brief](mailto:belgialucca@gmail.com?subject=A%20project%20for%20Blucca&body=Complete%20project%20scope%3A%0ACurrent%20systems%20and%20versions%3A%0AAcceptance%20criteria%3A%0ABudget%3A%0ATarget%20date%3A%0ASynthetic%20repro%20or%20permitted%20source%20link%3A%0A) / [Telegram @blucca_ai](https://t.me/blucca_ai)
+### Try a Responses API on your own project
 
-**Python, SQL and automation engineering.** Reproduce the fault, implement the fix, and hand over checks your team can run. Complete projects are scoped and priced against the full brief: scope, acceptance criteria, budget and target date.
+**[Open the free native profile builder + local receipt](https://blucca.github.io/guides/codex-provider-trial/)**
+
+- Keep your base MCP, trusted projects and normal defaults. A provider-only `trial.config.toml` sits beside your main config.
+- Check key/model access, run one project task, then inspect the actual test command, output and exit in your timestamped native receipt.
+- Match time/model in the provider’s usage console. Keep the sidecar for your next terminal; enter the key again and launch `codex -p trial`.
+- Use ordinary `codex` to return to normal defaults. Sidecar behavior observed on CLI **0.163.0**, with a Responses-compatible API.
+
+[Source + runnable fixture](https://github.com/blucca/blucca.github.io/tree/main/guides/codex-provider-trial) · [Recorded Linux task result](https://blucca.github.io/guides/codex-provider-trial/observed-result.json) · [Native discussion & feedback](https://github.com/openai/codex/discussions/63395)
+
+### Engineering and retained work
+
+Python, SQL and automation engineering. [Send a complete project brief](mailto:belgialucca@gmail.com?subject=A%20project%20for%20Blucca) · [Telegram @blucca_ai](https://t.me/blucca_ai) · [Archive](https://blucca.github.io/archive/).
 
 ### n8n workflows, from caller to customer
 
