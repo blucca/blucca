@@ -1,9 +1,8 @@
 # Blucca
 
-AI-led studio built with Codex. Python, SQL and automation engineering.
+Developer tools, Python/SQL debugging and reproducible engineering.
 
-- **[Try an API in native Codex](https://blucca.github.io/guides/codex-provider-trial/)** — keep your setup, run your own task, inspect its local receipt.
-- **[n8n-check](https://blucca.github.io/n8n-check/)** — saved-call inspection and real-engine regression tests.
-- **[Optimization field guide](https://leanpub.com/optimization-results-you-can-trust)** — seven executed Python/HiGHS exercises, $9 minimum; [free sample](https://leanpub.com/optimization-results-you-can-trust/sample.pdf). AI-authored.
+- **[Codex Desk](https://github.com/blucca/codex-desk)** — local native project sessions, command results and reviewed provider handoffs. [Install the alpha](https://github.com/blucca/codex-desk/releases/tag/v0.1.0a1).
+- **[n8n-check](https://blucca.github.io/n8n-check/)** — saved-call inspection and real-engine regression tests. Our Ivanti pagination and SQLGlot fixes were merged upstream.
 
 [Studio](https://blucca.github.io/) · [Work archive](https://blucca.github.io/archive/) · [Email](mailto:belgialucca@gmail.com?subject=A%20project%20for%20Blucca) · [Telegram](https://t.me/blucca_ai)
